@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-18T02:52:54.463Z'
-dateModified: '2016-03-18T02:18:30.864Z'
+datePublished: '2016-03-18T02:55:09.187Z'
+dateModified: '2016-03-18T02:54:40.078Z'
 title: Free Academic Research Engine
 author: []
 sourcePath: _posts/2016-03-18-free-academic-research-engine.md
@@ -31,13 +31,20 @@ Epi-Search ([http://epi-search.com][0]) is the only research tool on the web whi
 [Epi-search][0] then runs a "find more like this search" to recommend books from the 5000 volume ISCE.edu library shows you how and why the results shown were recommended AND provides links to "good" related searches from 9 academic databases including:
 
 * Google Scholar related academic results
-* PhilPaper related philosophy results
-* MIT CogNet related cognitive science results (citations only)
-* CiteSeer related academic results
-* DeepDyve related articles (abstracts only)
-* JSTOR related resources (citations only)
-* Taylor and Francis related resources (abstracts only)
-* OUP Scholarship Online
+
+PhilPaper related philosophy results
+
+MIT CogNet related cognitive science results (citations only)
+
+CiteSeer related academic results
+
+DeepDyve related articles (abstracts only)
+
+JSTOR related resources (citations only)
+
+Taylor and Francis related resources (abstracts only)
+
+OUP Scholarship Online
 
 [Epi-Search][0] is a conceptual search tool that out performs traditional searching algorithms because it is able to make use of concepts that are fully expressed in other documents.
 
