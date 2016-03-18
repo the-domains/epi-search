@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-18T03:11:13.638Z'
-dateModified: '2016-03-18T03:09:04.224Z'
+datePublished: '2016-03-18T03:12:51.121Z'
+dateModified: '2016-03-18T03:12:40.089Z'
 title: Free Academic Research Engine
 author: []
 sourcePath: _posts/2016-03-18-free-academic-research-engine.md
@@ -70,7 +70,7 @@ Students can take their current draft of notes or a paper and use it as a query 
 
 [Epi-Search][0] is like giving each student their own personal reference librarian to help them do research.
 
-And did I mention it is**FREE?**
+And did I mention it is **FREE?**
 
 Try [http://epi-search.com][0] and recommend it to your students
 
