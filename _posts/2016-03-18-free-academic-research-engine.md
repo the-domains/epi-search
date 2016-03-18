@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T02:13:34.673Z'
-dateModified: '2016-03-18T02:13:32.953Z'
+datePublished: '2016-03-18T02:15:55.326Z'
+dateModified: '2016-03-18T02:15:37.306Z'
 title: Free Academic Research Engine
 author: []
 sourcePath: _posts/2016-03-18-free-academic-research-engine.md
@@ -61,11 +61,11 @@ Students can take their current draft of a paper and use it as a query to discov
 
 Students can take their current draft of notes or a paper and use it as a query to discover other materials related to their draft all based on "find-more-like-this."
 
-[Epi-Search][0]is like giving each student their own personal reference librarian to help them do research.
+[Epi-Search][0] is like giving each student their own personal reference librarian to help them do research.
 
 And did I mention it is**FREE?**
 
-Try[http://epi-search.com][0]and recommend it to your students
+Try [http://epi-search.com][0] and recommend it to your students
 
 They will thank you
 
