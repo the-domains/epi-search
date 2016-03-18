@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T02:10:58.125Z'
-dateModified: '2016-03-18T02:10:39.658Z'
+datePublished: '2016-03-18T02:13:34.673Z'
+dateModified: '2016-03-18T02:13:32.953Z'
 title: Free Academic Research Engine
 author: []
+sourcePath: _posts/2016-03-18-free-academic-research-engine.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-free-academic-research-engine.md
-published: true
 url: free-academic-research-engine/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80681a8a-c047-4d95-a419-479a184e2e44.jpg)
+
 **Free Academic Research Engine**
 
 Epi-Search ([http://epi-search.com][0]) is the only research tool on the web which allows you to input up to 10,000 words as your search query (i.e. whole articles, papers, book chapters)
@@ -43,18 +45,19 @@ Epi-Search ([http://epi-search.com][0]) is the only research tool on the web whi
 
 Epi-search can play a key role in research where the use of whole paragraphs of text is more effective at finding contextually relevant material than the use of simple keywords and tags.
 
-Your students will benefit from knowing about and using this FREE tool.  
+Your students will benefit from knowing about and using this FREE tool.
+
 Use Cases:
 
-1)_Organizing thoughts for further reading_
+1) _Organizing thoughts for further reading_
 
 Students can take free form notes and submit them as a whole to Epi-Search. The site then recommends further reading material and associated concepts and keywords.
 
-2)_Discovering unexpected sources_
+2) _Discovering unexpected sources_
 
 Students can take their current draft of a paper and use it as a query to discover other reference sources which they should be citing.
 
-3)_Exploring related areas of inquiry_
+3) _Exploring related areas of inquiry_
 
 Students can take their current draft of notes or a paper and use it as a query to discover other materials related to their draft all based on "find-more-like-this."
 
@@ -66,7 +69,7 @@ Try[http://epi-search.com][0]and recommend it to your students
 
 They will thank you
 
-([ISCE.edu][1] does offer more than just the[WE-CONSENT(tm)][2] and [Anti-Bullying][3] projects).
+([ISCE.edu][1] does offer more than just the [WE-CONSENT(tm)][2] and the [Anti-Bullying][3] projects).
 
 * * 
 
