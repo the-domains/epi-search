@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-18T03:16:21.298Z'
-dateModified: '2016-03-18T03:14:41.810Z'
+datePublished: '2016-03-18T03:17:09.631Z'
+dateModified: '2016-03-18T03:16:59.526Z'
 title: Free Academic Research Engine
 author: []
 sourcePath: _posts/2016-03-18-free-academic-research-engine.md
