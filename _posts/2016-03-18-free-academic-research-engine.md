@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-18T02:55:09.187Z'
-dateModified: '2016-03-18T02:54:40.078Z'
+datePublished: '2016-03-18T02:57:50.711Z'
+dateModified: '2016-03-18T02:56:54.247Z'
 title: Free Academic Research Engine
 author: []
 sourcePath: _posts/2016-03-18-free-academic-research-engine.md
@@ -30,7 +30,7 @@ Epi-Search ([http://epi-search.com][0]) is the only research tool on the web whi
 
 [Epi-search][0] then runs a "find more like this search" to recommend books from the 5000 volume ISCE.edu library shows you how and why the results shown were recommended AND provides links to "good" related searches from 9 academic databases including:
 
-* Google Scholar related academic results
+Google Scholar related academic results
 
 PhilPaper related philosophy results
 
