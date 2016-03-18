@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-18T02:15:55.326Z'
-dateModified: '2016-03-18T02:15:37.306Z'
+datePublished: '2016-03-18T02:16:31.237Z'
+dateModified: '2016-03-18T02:16:21.248Z'
 title: Free Academic Research Engine
 author: []
 sourcePath: _posts/2016-03-18-free-academic-research-engine.md
