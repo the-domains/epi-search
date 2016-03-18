@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-18T03:13:26.984Z'
-dateModified: '2016-03-18T03:13:09.374Z'
+datePublished: '2016-03-18T03:16:21.298Z'
+dateModified: '2016-03-18T03:14:41.810Z'
 title: Free Academic Research Engine
 author: []
 sourcePath: _posts/2016-03-18-free-academic-research-engine.md
@@ -46,9 +46,7 @@ Taylor and Francis related resources (abstracts only)
 
 OUP Scholarship Online
 
-[Epi-Search][0] is a conceptual search tool that out performs traditional searching algorithms because it is able to make use of concepts that are fully expressed in other documents.
-
-[Epi-search][0] takes queries of 50 to 10,000 words and performs several functions: 1) a "find more like this" search identifies contextually related documents from the ISCE.edu library, 2) displays key concepts and terms from the query and presents them in word clouds, and 3) transforms extracted terms and concepts into "enhanced queries" that are sent directly into more than a dozen third-party online databases.
+[Epi-Search][0] is a conceptual search tool that out performs traditional searching algorithms because it is able to make use of concepts that are fully expressed in other documents. [Epi-search][0] takes queries of 50 to 10,000 words and performs several functions: 1) a "find more like this" search identifies contextually related documents from the ISCE.edu library, 2) displays key concepts and terms from the query and presents them in word clouds, and 3) transforms extracted terms and concepts into "enhanced queries" that are sent directly into more than a dozen third-party online databases.
 
 Epi-search can play a key role in research where the use of whole paragraphs of text is more effective at finding contextually relevant material than the use of simple keywords and tags.
 
